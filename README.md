@@ -10,7 +10,7 @@
 <a href="https://instagram.com/lhvubtqn"><img height="30" src="https://raw.githubusercontent.com/lhvubtqn/lhvubtqn/master/icons/instagram.png?raw=true"></a>&nbsp;&nbsp;
 
 <div align="center">
-<h3> 👩🏻 Hoang-Vu Le | 👩🏻‍💻 Data Engineer | 🌏 Ho Chi Minh, Vietnam </h3> 
+<h3> 👨‍🎓 Hoang-Vu Le | 👨‍💻 Data Engineer | 🌏 Ho Chi Minh, Vietnam </h3> 
 </div>
 
 ### About me
